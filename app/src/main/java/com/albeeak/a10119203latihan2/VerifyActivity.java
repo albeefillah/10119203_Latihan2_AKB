@@ -5,7 +5,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-
+// Nama : Albee Akbar Fillah
+// Kelas : IF-5
+// Tgl Pengerjaan : 25 April 2022
 public class VerifyActivity extends AppCompatActivity {
 
     @Override

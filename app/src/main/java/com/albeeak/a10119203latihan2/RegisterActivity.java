@@ -5,7 +5,9 @@ import android.content.Intent;
 import android.view.View;
 
 import android.os.Bundle;
-
+// Nama : Albee Akbar Fillah
+// Kelas : IF-5
+// Tgl Pengerjaan : 25 April 2022
 public class RegisterActivity extends AppCompatActivity {
 
     @Override
